@@ -1,4 +1,4 @@
 Contact
 =======
 
-The organizers can be contacted via school-robot-software-ME@tudelft.nl
+The managers of the Robust Robot Systems section can be reached at R2S-COR-ME@tudelft.nl
