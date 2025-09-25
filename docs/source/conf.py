@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'ACM SIGSOFT Summer School for Software Engineering in Robotics'
-copyright = '2025, KAS Lab, TU Delft'  # TODO: Update this
-author = 'Gustavo Rezende, Jasper van Brakel, Elvin Alberts, Carlos Hernandez'  # TODO: Update this
-gitrepo = 'se_robotics_school'  # TODO: Update this when changed
+project = 'R2S Safety Manual'
+copyright = '2025, R2S, TU Delft'  # TODO: Update this
+author = 'Forough Zamani, Carlos Hernandez'  # TODO: Update this
+gitrepo = 'r2s_safety_manual'  # TODO: Update this when changed
 release = '0'
 
 # -- General configuration ---------------------------------------------------
@@ -68,7 +68,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # a list of builtin themes.
 #
 html_theme = "sphinx_rtd_theme"
-html_title = 'ACM SIGSOFT Summer School for Software Engineering in Robotics'
+html_title = 'R2S Safety Manual'
 html_theme_options = {
     'navigation_depth': -1
 }
