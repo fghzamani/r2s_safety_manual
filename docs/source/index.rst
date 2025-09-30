@@ -57,7 +57,7 @@ Tiago++ Mobile Manipulator & Clearpath Boxer + Franka Arm
 
           Tiago++ Mobile Manipulator
          
-The manual of Albert can be found here:
+The manual of Albert can be found here:(ToDo)
 
 - **Training required:** Only trained users may operate robots.
 - **Powering on/off:** Follow official startup/shutdown procedures. Never hot-plug cables.
@@ -74,6 +74,14 @@ The manual of Albert can be found here:
 - **Hair:** Tie back long hair.
 - **Protective gear:** Safety glasses are recommended when testing manipulation tasks involving objects.
 - **Manual handling:** Do not manually force robot joints or wheels unless explicitly trained to do so.
+- **In case of injury:** There are band aid dispensers in front of the lab.
+
+  .. _fig-bandage:
+
+  .. figure:: _static/bandage.jpg
+   :alt: Robot diagram
+   :align: center
+   :width: 40%
 
 4. Environment & Equipment
 --------------------------
@@ -81,8 +89,18 @@ The manual of Albert can be found here:
 - **Cables:** Route cables along walls or tape them down to prevent tripping.
 - **Storage:** Keep tools, objects, and test items in designated shelves or bins.
 - **Battery & charging:**
+
   - Charge robots only at approved stations.
   - Do not leave charging robots unattended overnight.
+  - In cafe of using battery for Mirte-master robot, you should put the battery in the battery closet. 
+  
+  .. _fig-battery:
+
+  .. figure:: _static/battery_closet.jpeg
+   :alt: Robot diagram
+   :align: center
+   :width: 40%
+  
 
 5. Emergencies
 --------------
@@ -98,6 +116,7 @@ Lab members are responsible for:
 - Following this safety manual.
 - Respecting shared equipment and workspace.
 - Keeping the lab a safe and collaborative environment.
+- Apply “GOOD HOUSEKEEPING” e.g. return tools and equipment to their designated place after use, clean after work, etc.
 
 **Failure to comply may result in suspension of lab access.**
 
