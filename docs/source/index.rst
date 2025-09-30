@@ -11,6 +11,15 @@ Department of Cognitive Robotics, TU Delft
 
 This is the Safety Manual of the Robust Robot Systems section of teh Cognitive Robotics Department, Faculty Mechanical Engineering, TU Delft.
 
+.. _fig-robot:
+
+.. figure:: _static/Lab_outside.jpeg
+   :alt: Robot diagram
+   :align: center
+   :width: 60%
+
+
+
 0. Background Information
 -------------------------
 This manual applies to all lab spaces of the R2S, currently:
@@ -32,6 +41,23 @@ This manual applies to all lab spaces of the R2S, currently:
 2. Robot Operation
 ------------------
 Tiago++ Mobile Manipulator & Clearpath Boxer + Franka Arm
+
+.. list-table::
+   :widths: 50 50
+   :align: center
+
+   * - .. figure:: _static/Albert.jpeg
+          :alt: First image
+          :width: 100%
+
+          Albert robot(Franka Arm + Clearpath Boxer)
+     - .. figure:: _static/Tiago.jpeg
+          :alt: Second image
+          :width: 100%
+
+          Tiago++ Mobile Manipulator
+         
+The manual of Albert can be found here:
 
 - **Training required:** Only trained users may operate robots.
 - **Powering on/off:** Follow official startup/shutdown procedures. Never hot-plug cables.
